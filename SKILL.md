@@ -3,8 +3,9 @@ name: two-question-problem-solving
 description: Approach any significant problem by first identifying who has solved it and what can be learned from their approach.
 license: MIT
 metadata:
-  version: 1.0.1
   author: sethmblack
+  version: 1.0.5239
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - storytelling
 - two-question-problem-solving
